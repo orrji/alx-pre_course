@@ -1,14 +1,1 @@
-#!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-echo "ALX School is so cool!"
-=======
-echo "ALX School"
->>>>>>> update_script
-=======
-echo "ALX School is so cool!"
->>>>>>> parent of 1720483... Hot fix
-=======
-echo "ALX School is so cool!"
->>>>>>> parent of 1720483... Hot fix
+ALX School is so cool!
